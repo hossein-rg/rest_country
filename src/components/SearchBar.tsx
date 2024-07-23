@@ -14,7 +14,7 @@ const SearchBar = () => {
         <div className='py-4'>
             <div className='bg-transparent text-white'>
                 <Select>
-                    <SelectTrigger className="w-[200px] bg-darkblue border-none">
+                    <SelectTrigger className="w-[170px] bg-darkblue border-none">
                         <SelectValue placeholder="Filter by Region" />
                     </SelectTrigger>
                     <SelectContent className='text-lightgray border-none bg-darkblue'>
